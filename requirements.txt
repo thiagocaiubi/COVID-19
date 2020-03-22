@@ -6,6 +6,7 @@ certifi==2019.11.28
 cycler==0.10.0
 decorator==4.4.2
 dynetx==0.2.2
+django==1.9.3
 entrypoints==0.3
 future==0.18.2
 ipdb==0.13.2
