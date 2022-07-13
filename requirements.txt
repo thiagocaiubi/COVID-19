@@ -21,7 +21,7 @@ matplotlib==3.2.0
 ndlib==5.0.0
 netdispatch==0.0.3
 networkx==2.4
-numpy==1.18.1
+numpy==1.23.1
 packaging==20.3
 pandas==1.0.2
 parso==0.6.2
