@@ -2,7 +2,7 @@ altair==4.0.1
 attrs==19.3.0
 backcall==0.1.0
 bokeh==3.6.0
-certifi==2019.11.28
+certifi==2024.8.30
 cycler==0.10.0
 decorator==4.4.2
 dynetx==0.2.2
